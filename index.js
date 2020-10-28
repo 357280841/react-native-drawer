@@ -153,6 +153,7 @@ export default class Drawer extends Component {
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
+        backgroundColor: '#000',
       },
     }
 
